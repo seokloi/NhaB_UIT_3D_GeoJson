@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+
+        "name": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+
+        [
+          [
+            [106.80399855695597, 10.86988070580757,31],
+            [106.80399855695597, 10.869862135506349, 31],
+            [106.80399721585147, 10.869861740394615,31],
+            [106.8039969476142, 10.869879915579117,31]
+
+          ]
+        ]
+        ]
+      },
+      "id": "way/243154153"
+    }
+  ]
+}

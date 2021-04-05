@@ -1,0 +1,42 @@
+
+            {
+              "type": "FeatureCollection",
+              "generator": "overpass-ide",
+              "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+              "timestamp": "2020-08-27T10:45:03Z",
+              "features": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "@id": "way/243154153",
+                    "addr:city": "Ho Chi Minh City",
+                    "addr:housename": "Crescent Residence 1",
+                    "addr:housenumber": "103",
+                    "addr:street": "bl4",
+                    "building": "apartments",
+                    "building:levels": "5",
+                    "height": 25,
+                    "name": "Crescent Residence 1"
+                  },
+                  "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                      [
+                          [106.803432577413840000, 10.869978012297582, 31],
+                          [106.803467446131040000, 10.870060985929203, 31],
+                          [106.803525113624840000, 10.870136057290307, 31],
+                          [106.803596192163710000, 10.870190055976978, 31],
+                          [106.803684705061170000, 10.870229567204924, 31],
+
+                          [106.803684704961170000, 10.870229557204924, 31],
+                          [106.803596192063710000, 10.870190045976978, 31],
+                          [106.803525113524840000, 10.870136047290307, 31],
+                          [106.803467446031040000, 10.870060975929203, 31],
+                          [106.803432577313840000, 10.869978002297582, 31],
+                      ]
+                    ]
+                  },
+                  "id": "way/243154153"
+                }
+              ]
+            }

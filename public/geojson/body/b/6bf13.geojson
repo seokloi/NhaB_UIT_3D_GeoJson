@@ -1,0 +1,23 @@
+
+            {
+              "type": "FeatureCollection",
+              "generator": "overpass-ide",
+              "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+              "timestamp": "2020-08-27T10:45:03Z",
+              "features": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "@id": "Nha B",
+                    "Room": "B6.10"
+                  },
+                  "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                      [[[106.803597533168230000, 10.870063610012378, 52], [106.80353399834, 10.870142797126, 52], [106.80355176798, 10.870156296798, 52], [106.803597533168230000, 10.870063610012378, 52], [106.80356953761, 10.870169796469, 52], [106.80358730725, 10.870183296141, 52]]]
+                    ]
+                  },
+                  "id": "way/243154153"
+                }
+              ]
+            }
